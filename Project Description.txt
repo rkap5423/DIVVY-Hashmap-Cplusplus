@@ -1,0 +1,10 @@
+This project revolved around the DIVVY bicycle rental stations that are dotted around the city of Chicago. 
+Given a data file of stations and trips, I had to construct a number of functions that allowed for 
+looking up a specific station or trip given an inputted ID or name, the closest station given an inputted
+set of coordinates, check how many times a certain bicycle had been used and on which trips, etc. 
+
+The "main.cpp" file contains the bulk of the program, entirely created from scratch by me, 
+including the various functions that allow for the aforementioned searching and such. 
+"hashmap.h" contains the hashmap data structure that allows for the storing and accessing of the data, and
+is largely created by me but references some other files and functions created by the professor, which
+would be hash.h, hash.cpp, util.h, and util.cpp. 
