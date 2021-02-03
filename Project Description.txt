@@ -6,5 +6,5 @@ set of coordinates, check how many times a certain bicycle had been used and on 
 The "main.cpp" file contains the bulk of the program, entirely created from scratch by me, 
 including the various functions that allow for the aforementioned searching and such. 
 "hashmap.h" contains the hashmap data structure that allows for the storing and accessing of the data, and
-is largely created by me but references some other files and functions created by the professor, which
+is largely created by me but references some other files and functions created by Professor Joe Hummel, which
 would be hash.h, hash.cpp, util.h, and util.cpp. 
